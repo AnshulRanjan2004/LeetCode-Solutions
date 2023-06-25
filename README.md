@@ -1,2 +1,5 @@
 # LeetCode-Solutions
-Collection of LeetCode questions to ace the coding interview!
+My LeetCode submissions. 
+Visit my LeetCode profile [here](https://leetcode.com/AnshulRanjan2004).
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/AnshulRanjan2004?theme=dark&font=Noto%20Sans&ext=heatmap)
